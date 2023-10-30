@@ -1,1 +1,1 @@
-https://fighting-game-js-project.netlify.app/
+https://pac-man-demo.netlify.app/
